@@ -1,4 +1,6 @@
-# Olá! Eu sou Nelson!
+<div align='center'>
+  <h1>Olá! Eu sou Nelson!</h1>
+</div>
 
 ## 🚀 Sobre mim
 Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Sempre em busca de código limpo, boas práticas e arquiteturas sólidas.
@@ -35,9 +37,10 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Sempre em 
 
 ![Linguagens mais usadas](https://github-readme-stats-mu-dun.vercel.app/api/top-langs/?username=NelsonBaez&layout=compact&theme=dark)
 
-## 📈 Atividade Recente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-mu-dun.vercel.app/api?username=NelsonBaez&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-mu-dun.vercel.app/api/top-langs/?username=NelsonBaez&layout=compact&theme=dark"/>
+</div>
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([seu-linkedin](https://www.linkedin.com/in/nelson-baez-462132151/))
