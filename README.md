@@ -9,6 +9,7 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Sempre em 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,9 +31,9 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Sempre em 
 - **Clean Code** e boas práticas de desenvolvimento
 
 ## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NelsonBaez&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats-nelsonbaezs-projects.vercel.app/api?username=NelsonBaez&show_icons=true&theme=dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonBaez&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats-nelsonbaezs-projects.vercel.app/api/top-langs/?username=NelsonBaez&layout=compact&theme=dark)
 
 ## 📈 Atividade Recente
 <!--START_SECTION:activity-->
