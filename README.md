@@ -31,7 +31,7 @@ Desenvolvedor apaixonado por criar soluções robustas e escaláveis. Sempre em 
 - **Clean Code** e boas práticas de desenvolvimento
 
 ## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats-nelsonbaezs-projects.vercel.app/api?username=NelsonBaez&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats-mu-dun.vercel.app?username=NelsonBaez&show_icons=true&theme=dark)
 
 ![Linguagens mais usadas](https://github-readme-stats-nelsonbaezs-projects.vercel.app/api/top-langs/?username=NelsonBaez&layout=compact&theme=dark)
 
